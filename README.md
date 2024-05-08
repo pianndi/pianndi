@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **pianndi/pianndi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<table border='0'>
+  <tr>
+    <td>
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=pianndi&theme=onedark&show_icons=true&count_private=true&hide_border=true"/>
+    </td>
+    <td>
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pianndi&theme=onedark&hide_border=true&no-bg=true&no-frame=true&langs_count=5"/>
+    </td>
+  </tr>
+</table>
   
