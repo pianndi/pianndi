@@ -1,9 +1,10 @@
 <h2 align="left">Hello World!👋<br><br>My Name is Alviandi Siswo Hartanto (Pian)</h2>
 <h3>Fullstack Web Developer in Central Java Indonesia!</h3>
-- 🥇 1st LKS Web Technologies Central Java Province 2025<br>
-- 🥇 1st LKS Web Technologies Demak District 2025<br>
-- 🥈 2nd LKS Web Technologies Central Java Province 2024<br>
-- 🥇 1st LKS Web Technologies Demak District 2024<br>
+- 🥉 3rd (National Level) - LKS Web Technologies 2025<br>
+- 🥇 1st (Central Java Province) - LKS Web Technologies 2025<br>
+- 🥇 1st (Demak Regency) - LKS Web Technologies 2025<br>
+- 🥈 2nd (Central Java Province) - LKS Web Technologies 2024<br>
+- 🥇 1st (Demak Regency) Web Technologies 2024<br>
 
 ###
 
